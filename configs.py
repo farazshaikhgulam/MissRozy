@@ -36,9 +36,9 @@ CUSTOM_CAPTION = environ.get('CUSTOM_CAPTION')
 
 
 class Config(object):
-	API_ID = int(os.environ.get("API_ID", 13327016))
-	API_HASH = os.environ.get("API_HASH", "13323016")
-	BOT_TOKEN = os.environ.get("BOT_TOKEN","6144687436:AAGShuVn551CQHCWjRkdoBIteGgV0SUWxBo")
+	API_ID = int(os.environ.get("API_ID", 23225497))
+	API_HASH = os.environ.get("API_HASH", "332c7351a6ab3f6ae2e3adb661586eb4")
+	BOT_TOKEN = os.environ.get("BOT_TOKEN","7390760214:AAFhSMK5TIsJmCIpWAQQaXEtuQrq13WPtuk")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "Anime_fz_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1001772120203))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5965340120"))
