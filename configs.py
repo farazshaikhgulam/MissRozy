@@ -39,7 +39,7 @@ class Config(object):
 	API_ID = int(os.environ.get("API_ID", 13327016))
 	API_HASH = os.environ.get("API_HASH", "13323016")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN","6144687436:AAGShuVn551CQHCWjRkdoBIteGgV0SUWxBo")
-	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "MissRozy_BOT")
+	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "Anime_fz_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1001772120203))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "5965340120"))
 	DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://lazydeveloperr:lazydeveloperr@Cluster0.lpvunl5.mongodb.net/?retryWrites=true&w=majority")
